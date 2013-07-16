@@ -1,0 +1,9 @@
+Origin: Gokien
+Label: gokien daily
+Suite: gokien-daily
+Codename: precise
+Architectures: i386 amd64 source
+Components: main universe
+UDebComponents: main
+Description: Gokien daily PPA
+SignWith: yes

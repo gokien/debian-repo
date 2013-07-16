@@ -1,0 +1,16 @@
+Package: lsb-release-udeb
+Source: base-files
+Version: 6.5ubuntu6.5+gokien1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 13
+Priority: extra
+Section: debian-installer
+Filename: pool/main/b/base-files/lsb-release-udeb_6.5ubuntu6.5+gokien1_all.udeb
+Size: 782
+SHA256: afe49d186ab0629d9d3958f268d363d7d7bbf89bb0ee6e0c043c9049301cd980
+SHA1: 53b2a505b24de4aae94dea8f28f6e01212aa59de
+MD5sum: 433641e221adce6657c3ce76f323654f
+Description: LSB release information
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+

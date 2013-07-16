@@ -1,0 +1,21 @@
+Package: gokien-default-settings
+Version: 0.1.0ubuntu1
+Architecture: all
+Maintainer: Trung Ngo <ndtrung4419@gmail.com>
+Installed-Size: 84
+Depends: dconf-gsettings-backend | gsettings-backend, gconf2 (>= 2.28.1-2), dmz-cursor-theme
+Recommends: pantheon-terminal, noise, plank-theme-pantheon
+Enhances: midori, midori-granite, midori-gtk3, plank
+Breaks: elementary-default-settings
+Replaces: libgtk-3-0, midori, midori-granite, midori-gtk3
+Priority: optional
+Section: gnome
+Filename: pool/universe/g/gokien-default-settings/gokien-default-settings_0.1.0ubuntu1_all.deb
+Size: 4988
+SHA256: 37dd863aec466e5a18031d7d6b228e1c841b399a2b49292cbd12631d810be132
+SHA1: 331da92a5acbb36d32b2411a86af60e9a3502254
+MD5sum: bea89ccb65bcf1d9643a9b9fe22ac08f
+Description: gokien default settings
+ This package contains various system defaults for Gokien.
+ Installing this package won't affect existing users on your system.
+

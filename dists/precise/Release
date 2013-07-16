@@ -1,0 +1,77 @@
+Origin: Gokien
+Label: gokien daily
+Suite: gokien-daily
+Codename: precise
+Date: Tue, 16 Jul 2013 17:11:54 UTC
+Architectures: i386 amd64
+Components: main universe
+Description: Gokien daily PPA
+MD5Sum:
+ dd682612f97f4b955c3867e8f6cc777f 1824 main/binary-i386/Packages
+ a3e5a2bc5d3a36dd60945eeed246ccff 1010 main/binary-i386/Packages.gz
+ c08579cb18f73200d2244f8c24db5ffd 127 main/binary-i386/Release
+ bd1c4eac4baad1ca4894982473a812e8 569 main/debian-installer/binary-i386/Packages
+ 9c41f3904cf91dfb1868ad9ae23a1ddd 398 main/debian-installer/binary-i386/Packages.gz
+ 531cd2b13d6ba6e023975caf87e54493 822 main/binary-amd64/Packages
+ 59189a91323045857f81d3b2a590029d 518 main/binary-amd64/Packages.gz
+ 49524794f449a567ebe0d945871fffd4 128 main/binary-amd64/Release
+ bd1c4eac4baad1ca4894982473a812e8 569 main/debian-installer/binary-amd64/Packages
+ 9c41f3904cf91dfb1868ad9ae23a1ddd 398 main/debian-installer/binary-amd64/Packages.gz
+ 8376d9993ec2e60db149a75698eaf8b9 1893 main/source/Sources
+ 734d6895578d6131afe9074f37453a2b 853 main/source/Sources.gz
+ bc1a6254665cd64416eb9892d230a5a9 129 main/source/Release
+ 19ecbb884bcf5936ebb535766cb21835 904 universe/binary-i386/Packages
+ af1760f5cd53f78107b877a9339d1141 554 universe/binary-i386/Packages.gz
+ 0580bdb7853572d6aaea47c251a05c37 131 universe/binary-i386/Release
+ 19ecbb884bcf5936ebb535766cb21835 904 universe/binary-amd64/Packages
+ af1760f5cd53f78107b877a9339d1141 554 universe/binary-amd64/Packages.gz
+ 6658bb603b6c2d8d678f2e148a03bc3f 132 universe/binary-amd64/Release
+ 90dd079460064a5d4cc18f864e66dbd8 988 universe/source/Sources
+ 701e24c19f268440466b0c1973b70956 492 universe/source/Sources.gz
+ 4dfe2c45689de4f7697ea14a60f7d40b 133 universe/source/Release
+SHA1:
+ b4f1f2fb5876da155baf2288f2a9a30a487779bc 1824 main/binary-i386/Packages
+ 862bc2d313dbe76da906262c3062ad2c724d4503 1010 main/binary-i386/Packages.gz
+ a5f2187336746b317a0a66e7ef79e4b86e01c2a6 127 main/binary-i386/Release
+ fccaf3a6f3a3156c4b7796151e24710c16ea0431 569 main/debian-installer/binary-i386/Packages
+ cd02f444d89471fea6caf80b43965079dbbe7809 398 main/debian-installer/binary-i386/Packages.gz
+ 59a50c3f18a0f557458cb325a8327cc5cb731987 822 main/binary-amd64/Packages
+ f58697f05bf04adcf00825b4c6a2f12a1ea8b7bd 518 main/binary-amd64/Packages.gz
+ f47b5f631fcba4cf5141a2093b458bf0d920a25d 128 main/binary-amd64/Release
+ fccaf3a6f3a3156c4b7796151e24710c16ea0431 569 main/debian-installer/binary-amd64/Packages
+ cd02f444d89471fea6caf80b43965079dbbe7809 398 main/debian-installer/binary-amd64/Packages.gz
+ 0463be38f7d292556d01b8de4824fca010f649fb 1893 main/source/Sources
+ 1416836d3364904286b74cdcf8a814512bbb80c5 853 main/source/Sources.gz
+ 429405bf03814718e195c567c63f321b505ce0a7 129 main/source/Release
+ 9fb3f9dae7a1cb464f9f942331cee703877ae52f 904 universe/binary-i386/Packages
+ 7e0b99914a8b2cf13b281adb4460bd50933cc603 554 universe/binary-i386/Packages.gz
+ b9ba4493099c1ba3862bc8379e1d325fd810d247 131 universe/binary-i386/Release
+ 9fb3f9dae7a1cb464f9f942331cee703877ae52f 904 universe/binary-amd64/Packages
+ 7e0b99914a8b2cf13b281adb4460bd50933cc603 554 universe/binary-amd64/Packages.gz
+ 4777f81e6e7044b90af132bfea60bd3e8381a8b9 132 universe/binary-amd64/Release
+ b5a41d5da708e2a021a6b03c03b97e8162636a0f 988 universe/source/Sources
+ 38d79e0712ab482dc96c110148fee2a363a3e939 492 universe/source/Sources.gz
+ 729149dfd3d6a9183230bf3a73a3f8c88bdee805 133 universe/source/Release
+SHA256:
+ f897ea42240e1ec0ab8d5498c7d394b12c99477afad8b9a8ed090b6b4e2adb54 1824 main/binary-i386/Packages
+ ae2bd55f470cf8bb48338878794117e850b08f48a342e2bf1c5c7ab14b7390a4 1010 main/binary-i386/Packages.gz
+ 7a346b8cbd56252df6a41c0bc92e429e4e523f5f0ce59541520a59d43f7b5945 127 main/binary-i386/Release
+ 427851dc540d8eeb1b4f735b107785bc2cd2080022587d914e82d067cb3dec72 569 main/debian-installer/binary-i386/Packages
+ 46cb1fd667065b838790255a3732ba5c315f4851487659368aafdeab44558903 398 main/debian-installer/binary-i386/Packages.gz
+ 125356a36497c54c95d41dd9bd9fa93068defd91dd040f654fcff84179995c5e 822 main/binary-amd64/Packages
+ 86744b039a45096c544993c832621c891bca6031d643d24510f078de85a691eb 518 main/binary-amd64/Packages.gz
+ c1222acf77899842777e38ad92d1db7aff298269223300adcccb8839975989d1 128 main/binary-amd64/Release
+ 427851dc540d8eeb1b4f735b107785bc2cd2080022587d914e82d067cb3dec72 569 main/debian-installer/binary-amd64/Packages
+ 46cb1fd667065b838790255a3732ba5c315f4851487659368aafdeab44558903 398 main/debian-installer/binary-amd64/Packages.gz
+ 9dfcd85148ade0f08d82ed34bcf4d2933a310674db2baf87a079f5a8ea61f351 1893 main/source/Sources
+ 5f448909033e93ecf7603314622dc4bef0fa2dfd8e61a842b282a50720170ee6 853 main/source/Sources.gz
+ e3cee62fd570309cd24c892441cc8860adb1acbfe74490907a52f36ef57e2595 129 main/source/Release
+ df2e160d3f1ab595073120623f31dcda56a7b8646ad8be86eb4a164d0a206e1c 904 universe/binary-i386/Packages
+ 3b18318f16be5e5e90b1dbb388d4885a9a1f0ef5a03a63347aae5bff4c5acfe2 554 universe/binary-i386/Packages.gz
+ d919070da5785247a0fa810bb2879d31d5b598fa54688ea10da4cfd3b111dcb6 131 universe/binary-i386/Release
+ df2e160d3f1ab595073120623f31dcda56a7b8646ad8be86eb4a164d0a206e1c 904 universe/binary-amd64/Packages
+ 3b18318f16be5e5e90b1dbb388d4885a9a1f0ef5a03a63347aae5bff4c5acfe2 554 universe/binary-amd64/Packages.gz
+ 4f7df139bb768d455c9eba9edd7138b96824690a99e46034f1d3391bb72f1d53 132 universe/binary-amd64/Release
+ 027abec03b6ecee463f9e32c77ebfa48989661a28bc95f82c19306eaff469d4a 988 universe/source/Sources
+ e7ea3f3e06c2d1a5e4da97bca170200b971516a1830f755f0a0e8658de4e85f7 492 universe/source/Sources.gz
+ 1b6ed0201eb34d2cedf3cf7fee5d62fe853669a1cdf4a4a992dc2ad32d45e257 133 universe/source/Release
